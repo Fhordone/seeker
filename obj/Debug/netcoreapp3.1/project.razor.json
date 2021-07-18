@@ -14402,6 +14402,11 @@
   "RootNamespace": "seeker",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Home\\Listar.cshtml",
+      "TargetPath": "Views\\Home\\Listar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -14424,6 +14429,11 @@
     {
       "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Home\\Create.cshtml",
+      "TargetPath": "Views\\Home\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
