@@ -56,6 +56,17 @@ namespace seeker.Controllers
             return View("Create");
         }
 
+        public IActionResult Search(string search)
+        {
+          var ListarLibro = from l in _context.Creates select l;
+          if(!String.IsNullOrEmpty(search)){
+            ListarLibro = ListarLibro
+                          .Where(l => l.last_name.Contains(search))
+                          .OrderBy(l => l.last_name);
+          }
+          return View("Listar",ListarLibro);
+        }
+
         public IActionResult GetCreate()
         {
              var listCreate=_context.Creates.ToList();

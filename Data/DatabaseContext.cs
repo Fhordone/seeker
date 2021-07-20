@@ -5,6 +5,8 @@ namespace seeker.Data
         public DatabaseContext (DbContextOptions<DatabaseContext> options)
         : base(options) {  
         }
+
         public DbSet<seeker.Models.Create> Creates {get; set;}
+        
     }
 }
