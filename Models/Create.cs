@@ -8,6 +8,7 @@ namespace seeker.Models{
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Column("id")]
         public int ID {get; set;}
+        
         [Required(ErrorMessage = "Please enter first name")]
         [Column("first_name")]
         public string first_name {get;set;}

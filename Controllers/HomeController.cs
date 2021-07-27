@@ -27,35 +27,11 @@ namespace seeker.Controllers
             return View();
         }
 
-        public IActionResult Create()
-        {
-            return View();
-        }
         public IActionResult Privacy()
         {
             return View();
         }
-
-        public IActionResult Listar()
-        {
-            return View();
-        }
-
-        public IActionResult CCreate(Create objcreate)
-        {
-             if (ModelState.IsValid)
-            {
-                 
-                 objcreate.Mensaje = "El Usuario a sido Registrado con Éxito"; 
-
-                 _context.Add(objcreate);
-                 _context.SaveChanges();
-
-                 return View("Create",objcreate);   
-            }
-            return View("Create");
-        }
-
+        
         public IActionResult Search(string search)
         {
           var ListarLibro = from l in _context.Creates select l;
@@ -65,12 +41,6 @@ namespace seeker.Controllers
                           .OrderBy(l => l.last_name);
           }
           return View("Listar",ListarLibro);
-        }
-
-        public IActionResult GetCreate()
-        {
-             var listCreate=_context.Creates.ToList();
-             return View("Listar", listCreate);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

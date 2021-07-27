@@ -31,7 +31,10 @@
 @foreach (var item in Model)
 {
         <tr>
-            <th scope="row">#</th>
+            <th scope="row">
+                <a asp-action="Edit" asp-route-id="@item.ID">Editar</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Borrar</a>
+            </th>
             <td>
                 @Html.DisplayFor(modelItem => item.first_name)
             </td>

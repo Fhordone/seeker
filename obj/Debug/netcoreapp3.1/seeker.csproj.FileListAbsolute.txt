@@ -8,9 +8,7 @@ C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\seeker.
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\seeker.TagHelpers.input.cache
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\seeker.TagHelpers.output.cache
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\seeker.RazorCoreGenerate.cache
-C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listar.cshtml.g.cs
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -57,3 +55,6 @@ C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\seeker.
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\staticwebassets\seeker.StaticWebAssets.Manifest.cache
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\staticwebassets\seeker.StaticWebAssets.xml
 C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\seeker.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\Razor\Views\Create\Create.cshtml.g.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\Razor\Views\Create\Listar.cshtml.g.cs
+C:\Users\gusta\OneDrive\Documentos\GitHub\seeker\obj\Debug\netcoreapp3.1\Razor\Views\Create\Edit.cshtml.g.cs
