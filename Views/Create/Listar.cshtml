@@ -1,7 +1,13 @@
 @model IEnumerable<seeker.Models.Create>
-<h2>Lista Contactos</h2>
+<h2>Lista de Usuarios</h2>
 
-
+<div class="col">
+            <form asp-controller="Create" asp-action="Search" class="form-inline position-right">
+                <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search" name="search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </div>
+        <br>
 
 <table class="table table-hover">
     <thead class="thead-dark">
