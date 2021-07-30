@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LC7jrowQcpDV5Ma5cLMXEdV3Cp6kMIjSriL3Z0FVpN8WO7v/QrMJinc2pjXb12wOjkfPbffLNoPyK6nLGhxcWw==",
+  "dgSpecHash": "nwroIdmoKFMH1mKaF9bf3+NUKue+vU2d62etd4XZ2pe8w8Nef5DmR6KQgfh3Yxc2N5IintPAg1vN5VnFkJ8L4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Desktop\\seeker\\seeker.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\seeker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.5\\microsoft.aspnetcore.cryptography.internal.3.1.5.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.5\\microsoft.aspnetcore.cryptography.keyderivation.3.1.5.nupkg.sha512",

@@ -1320,11 +1320,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\Desktop\\seeker\\seeker.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\seeker.csproj",
       "projectName": "seeker",
-      "projectPath": "C:\\Users\\gusta\\Desktop\\seeker\\seeker.csproj",
+      "projectPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\seeker.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\Desktop\\seeker\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"

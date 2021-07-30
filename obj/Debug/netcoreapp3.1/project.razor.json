@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\seeker.csproj",
+  "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\seeker.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,68 +14402,68 @@
   "RootNamespace": "seeker",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Shared\\_ItemPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ItemPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Create\\Listar.cshtml",
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Create\\Listar.cshtml",
       "TargetPath": "Views\\Create\\Listar.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Create\\Create.cshtml",
-      "TargetPath": "Views\\Create\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Create\\Edit.cshtml",
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Create\\Edit.cshtml",
       "TargetPath": "Views\\Create\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gusta\\Desktop\\seeker\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Create\\Create.cshtml",
+      "TargetPath": "Views\\Create\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gusta\\OneDrive\\Documentos\\GitHub\\seeker\\Views\\Shared\\_ItemPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ItemPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
