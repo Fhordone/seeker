@@ -13,6 +13,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Npgsql.EntityFrameworkCore.PostgreSQL;
+using System.IO;
+using Microsoft.Extensions.FileProviders;
+using Microsoft.AspNetCore.Http;
+
 
 namespace seeker
 {
@@ -53,6 +57,13 @@ namespace seeker
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            app.UseStaticFiles(new StaticFileOptions
+            {
+                FileProvider = new PhysicalFileProvider(
+                    Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img")),
+                    RequestPath = "/img"
+            });
 
             app.UseRouting();
 
